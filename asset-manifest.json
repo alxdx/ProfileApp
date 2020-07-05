@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ProfileApp/static/css/main.39a980c6.chunk.css",
+    "main.js": "/ProfileApp/static/js/main.fdfb089a.chunk.js",
+    "main.js.map": "/ProfileApp/static/js/main.fdfb089a.chunk.js.map",
+    "runtime-main.js": "/ProfileApp/static/js/runtime-main.09410f78.js",
+    "runtime-main.js.map": "/ProfileApp/static/js/runtime-main.09410f78.js.map",
+    "static/js/2.5c20e2d1.chunk.js": "/ProfileApp/static/js/2.5c20e2d1.chunk.js",
+    "static/js/2.5c20e2d1.chunk.js.map": "/ProfileApp/static/js/2.5c20e2d1.chunk.js.map",
+    "index.html": "/ProfileApp/index.html",
+    "precache-manifest.8e2868bd312086a9c0f7edb15cd6659a.js": "/ProfileApp/precache-manifest.8e2868bd312086a9c0f7edb15cd6659a.js",
+    "service-worker.js": "/ProfileApp/service-worker.js",
+    "static/css/main.39a980c6.chunk.css.map": "/ProfileApp/static/css/main.39a980c6.chunk.css.map",
+    "static/js/2.5c20e2d1.chunk.js.LICENSE": "/ProfileApp/static/js/2.5c20e2d1.chunk.js.LICENSE",
+    "static/media/perfil.jpg": "/ProfileApp/static/media/perfil.b70d733d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09410f78.js",
+    "static/js/2.5c20e2d1.chunk.js",
+    "static/css/main.39a980c6.chunk.css",
+    "static/js/main.fdfb089a.chunk.js"
+  ]
+}
